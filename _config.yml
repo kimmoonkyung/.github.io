@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "나의 블로그"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "김문경"
 description              : "An amazing website."
 url                      : "https://kimmoonkyung.github.io" # the base hostname & protocol for your site e.g.
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
